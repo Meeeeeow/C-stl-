@@ -24,5 +24,10 @@ int main(void)
     }
     cout<<"Edited";
     cout<<"again"<<endl;
+    for(int i =0;i<4;i++)
+    {
+
+        cout<<i+1;
+    }
     return 0;
 }
