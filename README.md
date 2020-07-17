@@ -1,3 +1,3 @@
-# C++
-vector sort
+# C++ solutions from A2OJ LADDERS, hacker rank and codeforces
+
 
